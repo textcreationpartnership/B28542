@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pseudo Johannensium Polymastix qui Apollini Sminthei et Jovi Apomuiō sacros, profanos, devotos, dicatos, hommunciones, agasones, nebulones, explicat lacessit, lacerat. St. Johns in sippets drest, no flesh nor fish, the giblets of a malt horse packt it dish, stuffe that would choake a mallats crany throat, Manchesters impe in a blew scarlet coat; adopted pettitoes to th' houses stumps cloven into Presbyterian lumps and independent; may they serve to be their masters porters to the gallow tree: may these blinde beare whelpes lasht be to resent, beare whelps neer lickt t' a form of government: the whore of Babylon who'l feare when these bastards are whipt to their owne parishes.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28542</idno><idno type="EEBO-CITATION">99828754</idno>
+  <idno type="VID">207832</idno>
+  <idno type="EEBO-PROQUEST">2240862279</idno>
+  
+            <idno type="STC">Wing P4148C</idno>
+            <idno type="PROQUEST">99828754</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828754e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207832)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1958:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pseudo Johannensium Polymastix qui Apollini Sminthei et Jovi Apomuiō sacros, profanos, devotos, dicatos, hommunciones, agasones, nebulones, explicat lacessit, lacerat. St. Johns in sippets drest, no flesh nor fish, the giblets of a malt horse packt it dish, stuffe that would choake a mallats crany throat, Manchesters impe in a blew scarlet coat; adopted pettitoes to th' houses stumps cloven into Presbyterian lumps and independent; may they serve to be their masters porters to the gallow tree: may these blinde beare whelpes lasht be to resent, beare whelps neer lickt t' a form of government: the whore of Babylon who'l feare when these bastards are whipt to their owne parishes.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Sminthei" and "Apomuiō" are in Greek characters on title page.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signed at end: Johannensis Orthodoxus.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207832:1"/>
+            <pb facs="tcp:207832:1"/>
+            <p>
+               <hi>Pseudo Johannensium Polymastix,</hi> QUI APOLLINI ΣΜΙΝΘΕΙ ET JOVI ΑΠΟΜΥΙΩ <hi>Sacros, profanos, devotos, dicatos, homunciones, agasones, ne<g ref="char:EOLhyphen"/>bulones, explicat, lacessit, lacerat.</hi>
+            </p>
+            <q>
+               <l>St. <hi>Johns</hi> in sippets drest, no flesh nor fish,</l>
+               <l>The Giblets of a malt horse packt ith dish,</l>
+               <l>Stuffe that would choake a <hi>Mallats</hi> crany throat,</l>
+               <l>
+                  <hi>Manchesters</hi> Impe in a blew scarlet Coat;</l>
+               <l>Adopted pettitoes to th' Houses stumps</l>
+               <l>Cloven into Presbyterian lumps</l>
+               <l>And Independent; May they serve to be</l>
+               <l>Their Masters Porters to the Gallow tree:</l>
+               <l>May these blinde beare whelpes lasht be to resent,</l>
+               <l>Beare whelps neere lickt t' a form of government:</l>
+               <l>The Whore of Babylon who'l feare when these</l>
+               <l>Bastards are whipt to their owne Parishes.</l>
+            </q>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207832:2"/>
+            <pb n="3" facs="tcp:207832:2"/>
+            <head>Pseudo Iohannensium Polymastix.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F <hi>Homers</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> were turned into a curse, twer scarce long enough to nestle this brood of Cocatrices, this bastard spawne of Serpents, or if they were got by univocall generati<g ref="char:EOLhyphen"/>on, the Devill twas that playd the Pimpe. Eight card<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ith stock, and nought bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Noddy Knave; so many add<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e egges together will give <hi>Robin</hi> a good friday nights supper: A litter of Young Pha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isees but that the one boasted what they did, the other per<g ref="char:EOLhyphen"/>forme contrary to what they boast.</p>
+            <p>Had <hi>Saturnes Virile</hi> but got a man as it produced a <hi>Venus,</hi> this frothy Monster had been be; see what you want sir; <hi>No habadasher can furnish you with such wares,</hi> Whoremasters, or Hypocrites, Drunkards, or perjured of all sorts very good choyce; an Exchange of pro<g ref="char:EOLhyphen"/>phanenesse, Long-lane full of Brokers; a gallan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dish of Medlers, yet not worth a pin if not rotten at heart; a trick or two of Iesuits shuffled with a Mournivall of Asses: It puzled my Logick to ranck them into any pre<g ref="char:EOLhyphen"/>dicament till I thought of <hi>Platoes</hi> Division of all things into good and evill, as the <hi>summum genus</hi> of this cate<g ref="char:EOLhyphen"/>gory
+<pb n="4" facs="tcp:207832:3"/>of mischiefe fits <hi>John Arrowsmith,</hi> a very single eyed man, but of a body so corrupt twill dampe the force of fire at the last day to turne it into glasse, so that were I an <hi>Apothecary</hi> I would buy it for drugs. After this poysoned carcase had killed one wife he endea<g ref="char:EOLhyphen"/>vours yet further, <hi>Orestes</hi> like, to commit an act of par<g ref="char:EOLhyphen"/>ticide upon his Mother, by already lopping one arme of this glorious University; Oh might he have <hi>Orestes</hi> his fortune, be tormented with as many Hags as hell can spare, till he become a wanderer and a vagabond upon the earth: The Covenant is his minion, and no lesse then foureteene bastards hath he lately gotten by that Strumpet, which with a blasphemy almost as large as the prophanenesse of the object he applauds as able to bring men in fellowship with the Father and the Sonne.</p>
+            <p>Next enter <hi>Hodges,</hi> the best <hi>Belzebub</hi> that I know; Oh how many godly sisters has the white of his eye converted: Hypocrisie and oppression are but <hi>Embrio</hi> sins, scarce halfe fledged with him, in comparison of an <hi>inutilis conventus,</hi> as he tearmes it on a Sunday night, an offence unpardonable: One who hath set a whole Col<g ref="char:EOLhyphen"/>ledge on fire, and is now runne away in the smoake; but how came he a holy brother? Why, what obstacles will not the ambitious desire of preferment maugre? Thus <hi>Jupiter</hi> like to fullfill his lust, he turnes himselfe in<g ref="char:EOLhyphen"/>to a Cuckow: But fetch me some whip coard, ile lash that Hereticall Dunce <hi>Moubray,</hi> till he can decline <hi>Co<g ref="char:EOLhyphen"/>pia,</hi> a disgrace both to Grammer Phylosophy and Divi<g ref="char:EOLhyphen"/>nity: Yet such spurious Cions has this Reformation ino<g ref="char:EOLhyphen"/>culated; that which is storyed of <hi>Pelops</hi> served up as a Banquet to the Gods, and afterwards quodled to life in a Caldron, but that the Gods disdaine such course fare might be true of him. Flea him, and ile maintaine a Lan<g ref="char:EOLhyphen"/>dresse shall buy his skin to plight Cuffes with. But stayst for an <hi>Oedipus</hi> who can resolve this Riddle, how many
+<pb n="5" facs="tcp:207832:3"/>Theames will buy a hat? Mr. <hi>Collier</hi> will undoubtedly unfold this mystery next Tearme. The custome amongst the Ancients to subscribe to their Pictures <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is of no use with him; this beast hath marke e<g ref="char:EOLhyphen"/>nough in his forhead to distinguish him from any other: had he been living when <hi>Noah</hi> coupled his Creatures he could not have found a paralell meet for him: If <hi>Ba<g ref="char:EOLhyphen"/>bell</hi> were now to build, the confusion of tongues could not hinder its erection, each of these Sophies have two at least, but that this hypocrite might excell all his fel<g ref="char:EOLhyphen"/>lowes, he has got fifteene; but how came he by all this learning? His Nurse used him up to a bit and a line; thus <hi>Magister artis ingeni{que} largitor venter, negatas artifex sequi voces.</hi> But roome for <hi>Boanerges</hi> with his granado throat; <hi>Jam taudem adest Decanus vester;</hi> A man as zea<g ref="char:EOLhyphen"/>lous against Papists as Protestants, yet each morning to patch up the unworthinesse of his prayers, he lines them with the smoaking incense of the grease of his fingers: Had he been in <hi>Adams</hi> case, God would have changed his curse from the sweat of thy browes to the cleanesse of thy teeth: thou shall eate thy bread, and then poore <hi>James</hi> might even have starved. The effect which was produced by the flowers of <hi>Sicily,</hi> might be attributed to his breath, though proceeding from a contrary qua<g ref="char:EOLhyphen"/>lity, the Dogs cannot hunt for the stinck ont. Natura<g ref="char:EOLhyphen"/>lists tell us that in ground rightly manured, seede will spring forth in two dayes, <hi>James</hi> shall give them halfe a mile, and yet out runne them; were it but set in his cheekes the fatnesse of the soyle would certainely hasten the maturation. <hi>Pliny</hi> reports of some creatures in <hi>A<g ref="char:EOLhyphen"/>frica,</hi> (as <hi>quid non portentosum fert ista regio</hi>) that have no mouthes, and live onely by smelling to he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bes: Happy wee that weare not those <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, For the rammish per<g ref="char:EOLhyphen"/>fume of this Scullion would certainely choak us: But ile not baite this Beare any longer: have at the Bull of <hi>Basan</hi> now truely turned into <hi>Apuleius</hi> his Asse, <hi>John
+<pb n="6" facs="tcp:207832:4"/>Pawson</hi> in his majesty. That which is commonly belee<g ref="char:EOLhyphen"/>ved that men doe but act over that Scene, which their Forefathers set forth in the first edition, proves false heere, for malice and knavery the world cannot pro<g ref="char:EOLhyphen"/>duce a parallell. <hi>Machiavell</hi> certainely had beene his Pupill had they but been contemporaries: What shapes cannot this Impe put on? See the Dive<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l himselfe with a Bible under his arme: His Religion is unknowne as <hi>Ioves</hi> birth-place, his Actions like <hi>Herules,</hi> his beasts drive a contrary channell to his professions; thus is this quicksilver Ape, Puritan in sh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w, Iesuite in practise: He has pickled up as many Oaths (which he keeps in souse) as ever Priest did pardons, &amp; heel vent thē accordingly: give him but <hi>Mid<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is request he shal swear <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is supp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sed that <hi>Calvin</hi> lived seven ages before the floud. <hi>Hocas Po<g ref="char:EOLhyphen"/>cas,</hi> heere I have you, and there I have you, thus doth this Pilot steere his course that what winde soever blow shall drive him forward; he had the Moone for his Mo<g ref="char:EOLhyphen"/>ther, and better had it beene she had laboured an ecclipse then brought forth such a Sonne: Nor are his designes thawctfuller of decit then malice, a large example of which these dayes sufficiently afford; 'twas to see the golden hornes of authority on anothers head, that prompted thee to chase that Noble Stagge: What but the seed of Tigers could beget a spirit so exasperated a<g ref="char:EOLhyphen"/>gainst every thing that squares not with his owne ap<g ref="char:EOLhyphen"/>petite?</p>
+            <p>Nor is my taske done yet, this <hi>Hydra</hi> hath more heads left still: theres <hi>Sikes</hi> too, a Saint over head and eares; this Uulcan sure was borne without co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>junction; he lookes as if his soule had taken leave of his corps, and gone to hell to fetch the platforme of a new Reforma<g ref="char:EOLhyphen"/>tion: View him as he directs to the aire in the Chappell, for few other Auditors he has, and he speakes like <hi>Fryar Bacons</hi> Image; nay the Ayre her selfe could almost be content to make a gap in nature, lest such horrid trea<g ref="char:EOLhyphen"/>sons
+<pb n="7" facs="tcp:207832:4"/>as he belcheth forth should be harboured in her bo<g ref="char:EOLhyphen"/>some. Thus doth he snivell forth nonsence as the coach horses of the Sunne spew light through their nostrills: Sure he tooke the patterne of his prayers from the Queens staires at Greenwitch, which as tis reported, stand by Geometry, thus doe his words like Globes in the aire hang pendulous; twere a taske too heavv for a thousand <hi>Curtius's</hi> to stop all the <hi>Chasma's</hi> in this one mans devotions. Theres <hi>Heron</hi> to, that Boote catcher of Trinity, one who hath served out more Apprenti<g ref="char:EOLhyphen"/>ships then ever <hi>Iacob</hi> did, to obtaine a bleareeyed <hi>Leah,</hi> phanatique ignorance: <hi>Cincinna's</hi> plow-sheare was tur<g ref="char:EOLhyphen"/>ned into a Scepter, and as if this hedge-Hog had the same knack too, he's translated newly from a have you any worke for a Cooper to a <hi>non placet reverentiae nostra:</hi> Morralists say that old men are twice children; this <hi>Nestor</hi> has out lived his wisdome long since, and is now ready to commence Doctor of his faculty of ignorance. There are more whelps in this kennell still; but I have not stones enough to knock them all on the head: one of them they have sent before to Hell as harbinger to prepare lodgings for the rest of his fellowes: his Epi<g ref="char:EOLhyphen"/>taph written by my deare friend, I shall heere insert, with which I'le conclude.</p>
+            <q>
+               <floatingText>
+                  <body>
+                     <div type="epitaph">
+                        <opener>Io. Io.<lb/> Iovi κοπρίω<lb/> Et<lb/> Veneri Πανδήμω<lb/> Sacrum.</opener>
+                        <l>IN Capella divi Iohannis Becherus jacet,</l>
+                        <l>Vtinam omnes Miso Caroli sic jacerent,</l>
+                        <pb n="8" facs="tcp:207832:5"/>
+                        <l> Qui primus Capellam Directorio inquinavit,</l>
+                        <l>Noctis impiae proles an pater nescio,</l>
+                        <l>Quem Oxonium in Cantabrigiae cacavit sinum.</l>
+                        <l>Puritanismi sordes,</l>
+                        <l>Hypochryseos Coryphaeus.</l>
+                        <l>Pietatis opprobrium quam simulavit,</l>
+                        <l>Cui lucrum Deos fecit, timor Diabolum</l>
+                        <l>In vultu tenebrae, corde habitavit dolus,</l>
+                        <l>At scias velim sacrum esse hominis caput,</l>
+                        <l>Facies Vulcano, quaedam Veneri,</l>
+                        <l>Manus Mercurio consecratae:</l>
+                        <l>Caetera nota; abi quisquis es, &amp; ne sis talis;</l>
+                        <l>Si quis hoc posuit quaeris nihil agis.</l>
+                        <closer>
+                           <signed>Johannensis Orthodoxus.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207832:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
